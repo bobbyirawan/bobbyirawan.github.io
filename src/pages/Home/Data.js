@@ -6,7 +6,7 @@ export const heroDataOne = {
   lightBg: false,
   lightTopLine: true, 
   lightTextDesc: true, 
-  description: "I'am a software engineer with more than 2,5 years experience and more than 4 years in programming world. I also like to learn new things and am used to working in a team or individually.",
+  description: "I'am a software engineer with 3 years experience and more than 4 years in programming world. I also like to learn new things and am used to working in a team or individually.",
   buttonLabel: 'Daftar', 
   headline: "i'm bobby irawan", 
   topLine: 'Hello,', 
